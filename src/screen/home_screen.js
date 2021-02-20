@@ -1,9 +1,11 @@
 const HomeScreen = () =>{
+return (
 <div>
-    <hi>HomeScreen</hi>
+    <h1>HomeScreen</h1>
 </div>
 
 
+)
 }
 
 export default HomeScreen;
